@@ -1,0 +1,5 @@
+youtube link:
+https://youtu.be/ApYZ6b1HQ_U
+
+website to understand how project works:
+fredsql.netlify.app
